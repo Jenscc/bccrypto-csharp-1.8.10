@@ -1,3 +1,5 @@
+I edit some options of this project to debug the source code of BC on my VS2019. You can write your test in *crypto-test/CryptoTest.cs*.
+
 # The Bouncy Castle Crypto Package For C Sharp
 
 The Bouncy Castle Crypto package is a C\# implementation of cryptographic algorithms and protocols, it was developed by the Legion of the Bouncy Castle, a registered Australian Charity, with a little help! The Legion, and the latest goings on with this package, can be found at [https://www.bouncycastle.org](https://www.bouncycastle.org). In addition to providing basic cryptography algorithms, the package also provides support for CMS, TSP, X.509 certificate generation and a variety of other standards such as OpenPGP.
