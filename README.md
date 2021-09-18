@@ -1,4 +1,4 @@
-I edit some options of this project to debug the source code of BC on my VS2019. You can write your test in *crypto-test/CryptoTest.cs*.
+I have edited some options of this project to debug the source code of BC on my VS2019. You can write your test in *crypto-test/CryptoTest.cs*.
 
 # The Bouncy Castle Crypto Package For C Sharp
 
